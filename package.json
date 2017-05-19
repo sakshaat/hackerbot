@@ -1,0 +1,27 @@
+{
+  "name": "hackerbot",
+  "version": "1.0.0",
+  "description": "HackerBot1.0",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charles-Ng/Super-accessible-bot.git"
+  },
+  "author": "HTVHQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charles-Ng/Super-accessible-bot/issues"
+  },
+  "homepage": "https://github.com/Charles-Ng/Super-accessible-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "botbuilder": "^3.5.1",
+    "botbuilder-azure": "^3.0.1",
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "querystring": "^0.2.0"
+  }
+}
